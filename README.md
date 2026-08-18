@@ -1,8 +1,8 @@
 # EXPERIMENT-04-INTERRUPT-GENERATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR
 
 
-###  NAME: Hemanth Kumar R
-###  ROLL NO :212223040065
+###  NAME: Madhavan k
+###  ROLL NO :212224220054
 
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
